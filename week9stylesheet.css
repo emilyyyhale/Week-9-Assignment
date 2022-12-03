@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(241, 242, 242);
+}
+
+.div {
+    border: 2px dotted white;
+}
+
+li {
+    list-style: none;
+}
+
+.contactpics {
+    height: 50px;
+    width: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+}
+
+img {
+    height: 200%;
+    width: 200%;
+}
